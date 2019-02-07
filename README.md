@@ -16,3 +16,13 @@ npm i nodemailer
 
 ## Packages for Angular
 
+###SweetAlert2
+For adding alerts and confimration popups to your Angular projects, you can use the official Angular package for Sweet Alert.
+It supports multiple options and offers customization and is easy to integrate with our existing projects.
+
+```bash
+npm install --save sweetalert2@^7.15.1 @toverux/ngx-sweetalert2
+```
+[Homepage](https://sweetalert2.github.io/) | [GitHub](https://github.com/sweetalert2/ngx-sweetalert2)
+
+
