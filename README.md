@@ -12,9 +12,7 @@ Nodemailer is a module for Node.js applications to allow easy as cake email send
 npm i nodemailer
 ```
 
--[Homepage](https://nodemailer.com/about/)
--[GitHub](https://github.com/nodemailer/nodemailer)
--[npm](https://www.npmjs.com/package/nodemailer)
+[Homepage](https://nodemailer.com/about/) | [GitHub](https://github.com/nodemailer/nodemailer) | [npm](https://www.npmjs.com/package/nodemailer)
 
 ## Packages for Angular
 
