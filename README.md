@@ -18,7 +18,9 @@ npm i nodemailer
 
 ### SweetAlert2
 For adding alerts and confimration popups to your Angular projects, you can use the official Angular package for Sweet Alert.
-It supports multiple options and offers customization and is easy to integrate with our existing projects.
+It supports multiple options and offers customization and is easy to integrate with our existing projects.  
+
+![](https://img.shields.io/npm/dm/@toverux/ngx-sweetalert2.svg?style=flat-square) ![](https://img.shields.io/bundlephobia/minzip/@toverux/ngx-sweetalert2.svg?style=flat-square)
 
 ```bash
 npm install --save sweetalert2@^7.15.1 @toverux/ngx-sweetalert2
@@ -27,7 +29,9 @@ npm install --save sweetalert2@^7.15.1 @toverux/ngx-sweetalert2
 
 
 ### NGX-Toaster
-Add cool Toast notifications into your Angular project with ngx-toaster. It offers good amount of customizations and also supports animations.
+Add cool Toast notifications into your Angular project with ngx-toaster. It offers good amount of customizations and also supports animations.  
+
+![](https://img.shields.io/npm/dm/ngx-toastr.svg?style=flat-square) ![](https://img.shields.io/bundlephobia/minzip/ngx-toastr.svg?style=flat-square)
 
 ```bash
 npm i ngx-toastr
@@ -36,7 +40,9 @@ npm i ngx-toastr
 [Homepage](https://scttcper.github.io/ngx-toastr/) | [GitHub](https://github.com/scttcper/ngx-toastr/) | [npm](https://www.npmjs.com/package/ngx-toastr)
 
 ### Round Progress Bar
-Angular module that uses SVG to create a circular progressbar.
+Angular module that uses SVG to create a circular progressbar.  
+
+![](https://img.shields.io/npm/dm/angular-svg-round-progressbar.svg?style=flat-square)  ![](https://img.shields.io/bundlephobia/minzip/angular-svg-round-progressbar.svg?style=flat-square)
 
 ```bash
 npm install angular-svg-round-progressbar
