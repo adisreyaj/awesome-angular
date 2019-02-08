@@ -35,3 +35,12 @@ npm i ngx-toastr
 
 [Homepage](https://scttcper.github.io/ngx-toastr/) | [GitHub](https://github.com/scttcper/ngx-toastr/) | [npm](https://www.npmjs.com/package/ngx-toastr)
 
+### Round Progress Bar
+Angular module that uses SVG to create a circular progressbar.
+
+```bash
+npm install angular-svg-round-progressbar
+```
+
+[Homepage](http://crisbeto.github.io/angular-svg-round-progressbar/) | [GitHub](https://github.com/crisbeto/angular-svg-round-progressbar) | [npm](https://www.npmjs.com/package/angular-svg-round-progressbar)
+
