@@ -50,3 +50,13 @@ npm install angular-svg-round-progressbar
 
 [Homepage](http://crisbeto.github.io/angular-svg-round-progressbar/) | [GitHub](https://github.com/crisbeto/angular-svg-round-progressbar) | [npm](https://www.npmjs.com/package/angular-svg-round-progressbar)
 
+### NGX-Guage
+Add good looking guages to your Angular appliation. Supports different shapes and styles. It is also easy to integrate with your existing project.
+
+![](https://img.shields.io/npm/dm/ngx-gauge.svg?style=flat-square)  ![](https://img.shields.io/bundlephobia/minzip/ngx-gauge.svg?style=flat-square)  ![](https://img.shields.io/github/stars/ashish-chopra/ngx-gauge.svg?style=flat-square)
+
+```bash
+npm install angular-svg-round-progressbar
+```
+
+[Homepage](https://ashish-chopra.github.io/ngx-gauge) | [GitHub](https://github.com/ashish-chopra/ngx-gauge) | [npm](https://www.npmjs.com/package/ngx-gauge)
