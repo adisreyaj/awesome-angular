@@ -16,7 +16,7 @@ npm i nodemailer
 
 ## Packages for Angular
 
-###SweetAlert2
+### SweetAlert2
 For adding alerts and confimration popups to your Angular projects, you can use the official Angular package for Sweet Alert.
 It supports multiple options and offers customization and is easy to integrate with our existing projects.
 
@@ -25,4 +25,13 @@ npm install --save sweetalert2@^7.15.1 @toverux/ngx-sweetalert2
 ```
 [Homepage](https://sweetalert2.github.io/) | [GitHub](https://github.com/sweetalert2/ngx-sweetalert2)
 
+
+### NGX-Toaster
+Add cool Toast notifications into your Angular project with ngx-toaster. It offers good amount of customizations and also supports animations.
+
+```bash
+npm i ngx-toastr
+```
+
+[Homepage](https://scttcper.github.io/ngx-toastr/) | [GitHub](https://github.com/scttcper/ngx-toastr/) | [npm](https://www.npmjs.com/package/ngx-toastr)
 
