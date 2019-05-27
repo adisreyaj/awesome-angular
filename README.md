@@ -49,3 +49,15 @@ npm install angular-svg-round-progressbar
 ```
 
 [Homepage](https://ashish-chopra.github.io/ngx-gauge) | [GitHub](https://github.com/ashish-chopra/ngx-gauge) | [npm](https://www.npmjs.com/package/ngx-gauge)
+
+### NGX-Color
+If you are looking for a color picker for your next application, then this one is the best choice for you.It has different types of color pickers to choose from.
+
+![](https://img.shields.io/npm/dm/ngx-color.svg?style=flat-square)  ![](https://img.shields.io/bundlephobia/minzip/ngx-color.svg?style=flat-square)  ![](https://img.shields.io/github/stars/scttcper/ngx-color.svg?style=flat-square)
+
+```bash
+npm i ngx-color
+```
+
+[Homepage](https://ngx-color.netlify.com/) | [GitHub](https://github.com/scttcper/ngx-color) | [npm](https://www.npmjs.com/package/ngx-color)
+
